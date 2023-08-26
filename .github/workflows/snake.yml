@@ -8,15 +8,22 @@ on:
 
   push:
     branches:
-    - master
+      - main
 
 jobs:
   generate:
     permissions:
-      actions: write
+      actions: write-all
+      repository-projects: write
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout the branch
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
