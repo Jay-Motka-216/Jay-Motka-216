@@ -31,9 +31,7 @@ jobs:
           outputs: snake/snake.svg
 
       - name: Folder Name
-        run: 
-          | pwd
-          | ls -a
+        run: pwd && ls -a
 
 
       - name: push snake.svg to the output branch
