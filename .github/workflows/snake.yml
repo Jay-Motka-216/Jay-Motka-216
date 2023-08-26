@@ -30,6 +30,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: snake/snake.svg
 
+      - name: Folder Name
+        run: 
+          | pwd
+          | ls -a
+
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
