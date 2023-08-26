@@ -35,6 +35,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
-          build_dir: snake
+          keep_history: true
+          build_dir: ./
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
