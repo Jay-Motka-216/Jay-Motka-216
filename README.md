@@ -72,6 +72,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jay-Motka-216/Jay-Motka-216/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jay-Motka-216/Jay-Motka-216/snake/snake.svg" alt="Snake animation" />
 
 ###
