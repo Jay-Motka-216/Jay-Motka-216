@@ -1,16 +1,25 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left"> > Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"> What's up? I am Jay Motka</h1>
 
 ###
 
-<h2 align="left">My name is Jay and I'm a Software Developer, from India</h2>
+<h2 align="left">My name is Jay and I'm a Software Developer, from India working on building software that solves real-world problems</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Jay-Motka-216&label=Profile%20views&color=0e75b6&style=flat" alt="Jay-Motka-216" height="25em"/>
+    <a href="https://twitter.com/jay_motka" target="blank">
+        <img src="https://img.shields.io/twitter/follow/jay_motka?logo=twitter&style=for-the-badge" alt="jay_motka" height="25em" />
+    </a>
+</p>
+
+<h2 align="left"> 👨‍💻 About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS and Serverless<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS and Serverless<be>
+  <!--🎯 Goals: ...<br>🎲 Fun fact: ... -->
+</p>
 
 ###
 
@@ -42,6 +51,12 @@
 
 ###
 
+<br clear="both">
+
+<h2 align="left">Connect with me</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/jay-motka-5a48b1186/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -62,6 +77,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">📈 My GitHub Stats</h2>
 
 ###
 
