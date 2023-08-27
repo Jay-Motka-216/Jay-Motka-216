@@ -105,8 +105,8 @@
 
 ###
 
-<div align="left" style="display: flex; flex-direction: raw;">
-  <img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Motka-216&layout=full&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF" alt="Jay-Motka-216" />
+<div align="center" style="display: flex; flex-direction: raw; flex-wrap: wrap;">
+  <img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Motka-216&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF" alt="Jay-Motka-216" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jay-Motka-216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jay-Motka-216&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=6&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 </div>
