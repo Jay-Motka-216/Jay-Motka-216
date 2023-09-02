@@ -112,7 +112,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Jay-Motka-216/Jay-Motka-216/main/snake/snake.svg" width="100%" alt="Snake animation" style="align: left; theme: dracula;" />
-
-###
