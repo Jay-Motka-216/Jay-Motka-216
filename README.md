@@ -67,6 +67,10 @@
   <a href="https://git-scm.com" targer="_blank" rel="noreferrrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   </a>
+  <img width="12" />
+  <a href="https://www.terraform.io/" targer="_blank" rel="noreferrrer">
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-plain-wordmark.svg" height="40" alt="terraform logo"  />
+  </a>
 </div>
 
 ###
