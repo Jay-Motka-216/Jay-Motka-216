@@ -69,7 +69,7 @@
   </a>
   <img width="12" />
   <a href="https://www.terraform.io/" targer="_blank" rel="noreferrrer">
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-plain-wordmark.svg" height="40" alt="terraform logo"  />
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   </a>
 </div>
 
