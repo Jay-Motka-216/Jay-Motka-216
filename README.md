@@ -19,7 +19,7 @@
 
 <p align="left">
     ✨ Creating bugs since 2021 <br>
-    📚 I'm currently learning AWS and Serverless <br>
+    📚 I'm currently learning AWS, Terraform and Serverless <br>
     🎯 Goals: To design and build scalable and reliable systems <br>
   <!--🎯 Goals: ...<br>🎲 Fun fact: ... -->
 </p>
