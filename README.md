@@ -50,7 +50,7 @@
     </a>
   <img width="12" />
     <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
     </a>
   <img width="12" />
     
@@ -61,7 +61,7 @@
   </a>
   <img width="12" />
   <a href="https://aws.amazon.com/?nc2=h_lg" targer="_blank" rel="noreferrrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   </a>
   <img width="12" />
   <a href="https://git-scm.com" targer="_blank" rel="noreferrrer">
